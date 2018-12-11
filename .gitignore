@@ -1,2 +1,4 @@
 google-news.bin
 .ipynb_checkpoints/
+*.png
+*.jpg
